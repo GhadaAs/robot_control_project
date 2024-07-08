@@ -32,8 +32,8 @@ This project is a web-based control panel designed to manage the movement of a r
 - commands.sql: The SQL file to create and setup the database table for storing commands.
 
 ## Screenshots
-![Control Panel Screenshot](https://github.com/GhadaAs/robot_control_project/raw/main/Screenshot2024-07-06_042717.png)
-![Database Screenshot](https://github.com/GhadaAs/robot_control_project/raw/main/Screenshot2024-07-06_042804.png)
+![Control Panel Screenshot]([https://github.com/GhadaAs/robot_control_project/raw/main/Screenshot2024-07-06_042717.png](https://github.com/GhadaAs/robot_control_project/blob/main/Screenshot%202024-07-06%20042717.png?raw=true))
+![Database Screenshot]([https://github.com/GhadaAs/robot_control_project/raw/main/Screenshot2024-07-06_042804.png](https://github.com/GhadaAs/robot_control_project/blob/main/Screenshot%202024-07-06%20042804.png?raw=true))
 
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
